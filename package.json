@@ -1,0 +1,25 @@
+{
+  "name": "sagar-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "0.154.0",
+    "gsap": "3.12.2",
+    "@react-three/fiber": "8.15.0",
+    "@react-three/drei": "9.88.0",
+    "framer-motion": "10.16.4"
+  },
+  "devDependencies": {
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.2.5"
+  }
+}
